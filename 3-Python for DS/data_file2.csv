@@ -1,0 +1,9 @@
+,Courses,Fees,Duration,Discount
+r0,Spark,20000.0,30 Days,10
+r1,Pandas,30000.0, ,11
+r2,Hadoop,40000.0,30 Days,12
+r3,Oracle,,30 Days,13
+r4,Java,50000.0,30 Days,15
+r5,,60000.0,30 Days,16
+r6,Python,70000.0,30 Days,17
+r7,Numpy,80000.0,30 Days,18
